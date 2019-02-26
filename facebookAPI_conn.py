@@ -1,5 +1,7 @@
 #!/usr/bin/env python
 
+# Meant for future potential experiments with Facebook Graph API
+
 import urllib.request
 import requests
 import os, sys
