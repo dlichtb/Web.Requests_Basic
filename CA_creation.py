@@ -1,5 +1,7 @@
 #!/usr/bin/env python
 
+#   Basic scaffolding for Custom Built Local Certificate Authority
+
 import os, sys
 
 ###################################
